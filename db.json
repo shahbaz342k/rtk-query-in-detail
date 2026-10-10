@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "title": "Testing 1",
+      "body": "testing1",
+      "id": "9mh9mIhLSxo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
